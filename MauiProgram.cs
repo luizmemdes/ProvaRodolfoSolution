@@ -1,11 +1,8 @@
-﻿using Microsoft.Maui;
-using Microsoft.Maui.Controls.Hosting;
-using Microsoft.Maui.Hosting;
-using Microsoft.Extensions.DependencyInjection;
+﻿using ProvaRodolfo.PluginsInterfaces;
+using Plugins.SqlLite;
 using ProvaRodolfo.Views;
 using CasosDeUso.Interface;
 using CasosDeUso;
-using Plugins.SqlLite;
 
 namespace ProvaRodolfo
 {
@@ -16,7 +13,7 @@ namespace ProvaRodolfo
             var builder = MauiApp.CreateBuilder();
 
             builder
-                .UseMauiApp<App>() 
+                .UseMauiApp<App>()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");

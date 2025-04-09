@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ELRhdrO2/UM=",
+  "dgSpecHash": "yz+nkMeN8u8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\ProvaRodolfo.csproj",
+  "projectFilePath": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\ProvaRodolfo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Senac\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Senac\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",

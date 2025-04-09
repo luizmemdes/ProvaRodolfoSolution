@@ -44211,11 +44211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\ProvaRodolfo.csproj",
+      "projectUniqueName": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\ProvaRodolfo.csproj",
       "projectName": "ProvaRodolfo",
-      "projectPath": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\ProvaRodolfo.csproj",
+      "projectPath": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\ProvaRodolfo.csproj",
       "packagesPath": "C:\\Users\\Senac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\",
+      "outputPath": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

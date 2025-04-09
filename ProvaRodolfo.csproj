@@ -65,12 +65,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Compile Update="Views\ObservacoesContatoPage.xaml.cs">
-        <DependentUpon>ObservacoesContatoPage.xaml</DependentUpon>
-      </Compile>
-    </ItemGroup>
-
-    <ItemGroup>
       <MauiXaml Update="Views\ObservacoesContatoPage.xaml">
         <Generator>MSBuild:Compile</Generator>
       </MauiXaml>

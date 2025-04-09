@@ -1,5 +1,5 @@
 ﻿using CoreBusiness.Entidades;
-using PluginsInterfaces;
+using ProvaRodolfo.PluginsInterfaces; // <- esse aqui é o novo namespace certo
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -11,7 +11,7 @@ namespace Plugins.SqlLite
 
         public Task EditarAsync(Contato contato)
         {
-            // Simula edição (aqui você implementaria a lógica real com SQLite)
+            
             return Task.CompletedTask;
         }
     }

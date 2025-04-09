@@ -1,24 +1,19 @@
-﻿using Microsoft.Maui.Controls;
-using System;
+﻿namespace ProvaRodolfo.Views;
 
-namespace ProvaRodolfo.Views
+public partial class ObservacoesContatoPage : ContentPage
 {
-    public partial class ObservacoesContatoPage : ContentPage
+    public ObservacoesContatoPage()
     {
-        public ObservacoesContatoPage()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
+    }
 
-        private async void OnSalvarClicked(object sender, EventArgs e)
-        {
-            await DisplayAlert("Salvo", "Observação salva com sucesso!", "OK");
-            await Navigation.PopAsync();
-        }
+    private void OnSalvarClicked(object sender, EventArgs e)
+    {
+        // salvar
+    }
 
-        private async void OnCancelarClicked(object sender, EventArgs e)
-        {
-            await Navigation.PopAsync();
-        }
+    private void OnCancelarClicked(object sender, EventArgs e)
+    {
+        // cancelar
     }
 }

@@ -1,7 +1,7 @@
 ﻿using CoreBusiness.Entidades;
 using System.Threading.Tasks;
 
-namespace PluginsInterfaces
+namespace ProvaRodolfo.PluginsInterfaces
 {
     public interface IRepositorioDeContatos
     {

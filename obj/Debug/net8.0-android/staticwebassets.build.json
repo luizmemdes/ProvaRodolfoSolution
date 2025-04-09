@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w91sq4T2p0q777Fu1EBD6+d/D3TEfBAY8rppX6f1TNU=",
+  "Hash": "Vi6ouxhkH2DEydHlkPatD98gZBg2Z17VxRiG/7A2jag=",
   "Source": "ProvaRodolfo",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "ProvaRodolfo\\wwwroot",
       "Source": "ProvaRodolfo",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "ProvaRodolfo#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "QgN+Cmy+91T7naJZApm7ADV+AbShDp36Wq6nVqBzFI4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "ProvaRodolfo#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "QgN+Cmy+91T7naJZApm7ADV+AbShDp36Wq6nVqBzFI4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\app.css",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\favicon.png",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\index.html",
       "SourceId": "ProvaRodolfo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -204,7 +204,7 @@
     },
     {
       "Route": "css/app.dex3usdpik.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -249,7 +249,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -294,7 +294,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -376,7 +376,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -413,7 +413,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -458,7 +458,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -532,7 +532,7 @@
     },
     {
       "Route": "index.qdqx6nbi01.html",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -577,7 +577,7 @@
     },
     {
       "Route": "ProvaRodolfo.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -614,7 +614,7 @@
     },
     {
       "Route": "ProvaRodolfo.e0f71xjnuc.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\ProvaRodolfo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -659,7 +659,7 @@
     },
     {
       "Route": "ProvaRodolfo.e0f71xjnuc.styles.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -704,7 +704,7 @@
     },
     {
       "Route": "ProvaRodolfo.styles.css",
-      "AssetFile": "C:\\Users\\Senac\\source\\repos\\ProvaRodolfo\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css",
+      "AssetFile": "C:\\Users\\Senac\\Desktop\\ProvaRodolfo\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ProvaRodolfo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
